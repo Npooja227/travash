@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 
 # below is the link for reference
-https://drive.google.com/file/d/1WNuYm183nv8pWRAiNa0G80uC2LJ9oIDv/view
+[https://drive.google.com/file/d/1WNuYm183nv8pWRAiNa0G80uC2LJ9oIDv/view](https://drive.google.com/file/d/1WNuYm183nv8pWRAiNa0G80uC2LJ9oIDv/view)
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
